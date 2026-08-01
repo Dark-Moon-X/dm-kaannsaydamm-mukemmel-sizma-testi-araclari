@@ -5,6 +5,7 @@ Bilgisayar korsanları, pentesterler ve güvenlik araştırmacıları için hari
 Harika Bilgisayar Korsanlığı Araçlarının küratörlüğünde bir listesi. Katkılarınız her zaman açığız!
 
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Yapay zeka güdümlü otonom sızma testi platformu (web/API/Active Directory/Kubernetes). Self-hosted çalışır ve yerel Privacy Gateway ile hassas verileri tokenlaştırır, böylece LLM gerçek değerleri asla görmez. GPL-3.0, Avrupa menşeli.
 # Mükemmel Repolar:
 * [Mükemmel Malware Analizi](https://github.com/rshipp/awesome-malware-analysis)
 Harika kötü amaçlı yazılım analiz araçları ve kaynaklarının küratörlüğünde bir listesi
